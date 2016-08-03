@@ -3,11 +3,11 @@
 /*
 Plugin Name: Envire.it Remove XMLRPC Pingback
 Plugin URI: https://www.envire.it
-Description: Envire.it Remove XMLRPC pingback function in order to prevent DDoS attacks 
+Description: Envire.it Remove XMLRPC pingback function in order to prevent the use by DDoS attackers. 
 Author: Sergio De Falco
 Version: 1.0
 Author URI: https://www.envire.it/
-Text Domain: envireit-remove-pingback
+Text Domain: envireit-remove-xmlrpc-pingback
 Domain Path: /languages/
 License: GPL v3
 */
