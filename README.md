@@ -1,0 +1,1 @@
+# envireit-disable-xmlrpc-pingback
